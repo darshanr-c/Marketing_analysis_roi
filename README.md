@@ -8,7 +8,7 @@ This project dives into a marketing dataset to uncover insights around campaign 
 - Are we spending smartly across marketing platforms?
 - Is there a pattern between income levels and customer lifetime value?
 
-> I treated this like a real-world marketing case study — not just a data cleaning task, but an end-to-end business analytics solution.
+I treated this like a real-world marketing case study — not just a data cleaning task, but an end-to-end business analytics solution.
 
 ---
 
@@ -104,6 +104,17 @@ Here are some of the insights I explored using visualizations:
 🧱 Clean project structure with reusable Python scripts
 📊 Data storytelling with readable, impactful visuals
 🔍 Analytical thinking applied to a real-world problem
+
+---
+
+## 📌 Dataset
+
+Original Source: [Kaggle - Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download)
+Enhanced version includes:
+Simulated marketing spend
+Channel info
+Revenue per customer
+Churn labels for analysis and other metrics
 
 ---
 
