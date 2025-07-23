@@ -110,11 +110,12 @@ Here are some of the insights I explored using visualizations:
 ## 📌 Dataset
 
 Original Source: [Kaggle - Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download)
+
 Enhanced version includes:
-Simulated marketing spend
-Channel info
-Revenue per customer
-Churn labels for analysis and other metrics
+- Simulated marketing spend
+- Channel info
+- Revenue per customer
+- Churn labels for analysis and other metrics
 
 ---
 
